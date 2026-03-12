@@ -1,5 +1,5 @@
 # LED-BLINK-USNG-STM32
-# LED-BLINK
+
 # 💡 Experiment 01 – Interfacing a Digital Output (LED) with ARM Development Board
 
 ### 🎯 **Aim**
